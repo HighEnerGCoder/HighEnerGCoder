@@ -1,1 +1,3 @@
-I am a High Energy Programmer.
+A High Energy Programmer.
+
+Mantra: FOCUS | ATTACK
